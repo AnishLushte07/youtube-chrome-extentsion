@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "YouTube comments remover",
+  "description": "This extension allows the user to remove comments from youtube page.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
