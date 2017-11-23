@@ -1,2 +1,2 @@
 # youtube-chrome-extentsion
-To remove commnets from page and restrict related videos list to window.
+To remove comments from page and restrict related videos list to window.
